@@ -1,0 +1,942 @@
+{
+  "reproduce_suppfig1": {
+    "word_counts": {
+      "shape": [
+        31,
+        20
+      ],
+      "type": "float64"
+    },
+    "word_labels": {
+      "shape": [
+        20
+      ],
+      "type": "object"
+    },
+    "province_names": {
+      "shape": [
+        31
+      ],
+      "type": "object"
+    },
+    "explained": {
+      "shape": [
+        2,
+        10
+      ],
+      "type": "float64"
+    },
+    "loadings": {
+      "shape": [
+        2,
+        10,
+        10
+      ],
+      "type": "float64"
+    },
+    "word_frequency_pca_scores": {
+      "shape": [
+        31,
+        2
+      ],
+      "type": "float64"
+    },
+    "scores": {
+      "shape": [
+        31,
+        3
+      ],
+      "type": "float64"
+    },
+    "x": {
+      "shape": [
+        31,
+        3
+      ],
+      "type": "float64"
+    },
+    "y": {
+      "shape": [
+        31
+      ],
+      "type": "float64"
+    },
+    "r": {
+      "shape": [
+        3
+      ],
+      "type": "float64"
+    },
+    "p": {
+      "shape": [
+        3
+      ],
+      "type": "float64"
+    },
+    "fit": {
+      "shape": [
+        3,
+        100,
+        4
+      ],
+      "type": "float64"
+    },
+    "dictionary": {
+      "shape": [
+        10,
+        4
+      ],
+      "type": "object"
+    }
+  },
+  "reproduce_suppfig2": {
+    "heatmaps": {
+      "shape": [
+        2,
+        30,
+        308
+      ],
+      "type": "float64"
+    },
+    "centers": {
+      "shape": [
+        30
+      ],
+      "type": "object"
+    },
+    "common_centers": {
+      "shape": [
+        25
+      ],
+      "type": "object"
+    },
+    "spatial_r": {
+      "shape": [
+        25
+      ],
+      "type": "float64"
+    },
+    "median_r": {
+      "shape": [],
+      "type": "float64"
+    },
+    "scan_counts": {
+      "shape": [
+        2
+      ],
+      "type": "int32"
+    },
+    "span_medians": {
+      "shape": [
+        2
+      ],
+      "type": "float64"
+    },
+    "methods": {
+      "shape": [
+        8
+      ],
+      "type": "object"
+    },
+    "errors": {
+      "shape": [
+        2,
+        8,
+        25,
+        308
+      ],
+      "type": "float64"
+    },
+    "median_absolute_error": {
+      "shape": [
+        2,
+        8
+      ],
+      "type": "float64"
+    },
+    "relative_error": {
+      "shape": [
+        2,
+        8
+      ],
+      "type": "float64"
+    }
+  },
+  "reproduce_suppfig4": {
+    "n": {
+      "shape": [],
+      "type": "int32"
+    },
+    "years": {
+      "shape": [
+        25
+      ],
+      "type": "int32"
+    },
+    "counts": {
+      "shape": [
+        25
+      ],
+      "type": "int64"
+    },
+    "median": {
+      "shape": [],
+      "type": "float64"
+    },
+    "iqr": {
+      "shape": [
+        2
+      ],
+      "type": "float64"
+    },
+    "route_labels": {
+      "shape": [
+        15
+      ],
+      "type": "object"
+    },
+    "route_counts": {
+      "shape": [
+        15,
+        4
+      ],
+      "type": "int32"
+    },
+    "route_percentages": {
+      "shape": [
+        15,
+        4
+      ],
+      "type": "float64"
+    }
+  },
+  "plot_fig2e_snr": {
+    "pc1_x": {
+      "shape": [
+        203
+      ],
+      "type": "float64"
+    },
+    "pc1_lower": {
+      "shape": [
+        203
+      ],
+      "type": "float64"
+    },
+    "pc1_median": {
+      "shape": [
+        203
+      ],
+      "type": "float64"
+    },
+    "pc1_upper": {
+      "shape": [
+        203
+      ],
+      "type": "float64"
+    },
+    "pc1_theory_x": {
+      "shape": [
+        500
+      ],
+      "type": "float64"
+    },
+    "pc1_theory_y": {
+      "shape": [
+        500
+      ],
+      "type": "float64"
+    },
+    "pc1_actual_x": {
+      "shape": [],
+      "type": "float64"
+    },
+    "pc1_actual_q": {
+      "shape": [
+        3
+      ],
+      "type": "float64"
+    },
+    "pc1_noise_scales": {
+      "shape": [
+        203
+      ],
+      "type": "float64"
+    },
+    "pc2_x": {
+      "shape": [
+        203
+      ],
+      "type": "float64"
+    },
+    "pc2_lower": {
+      "shape": [
+        203
+      ],
+      "type": "float64"
+    },
+    "pc2_median": {
+      "shape": [
+        203
+      ],
+      "type": "float64"
+    },
+    "pc2_upper": {
+      "shape": [
+        203
+      ],
+      "type": "float64"
+    },
+    "pc2_theory_x": {
+      "shape": [
+        500
+      ],
+      "type": "float64"
+    },
+    "pc2_theory_y": {
+      "shape": [
+        500
+      ],
+      "type": "float64"
+    },
+    "pc2_actual_x": {
+      "shape": [],
+      "type": "float64"
+    },
+    "pc2_actual_q": {
+      "shape": [
+        3
+      ],
+      "type": "float64"
+    },
+    "pc2_noise_scales": {
+      "shape": [
+        203
+      ],
+      "type": "float64"
+    }
+  },
+  "plot_fig2a": {
+    "Fig2a_Data": {
+      "coeff": {
+        "shape": [
+          7,
+          2
+        ],
+        "type": "float64"
+      },
+      "explained": {
+        "shape": [
+          7,
+          1
+        ],
+        "type": "float64"
+      },
+      "prov_use": {
+        "shape": [
+          30,
+          1
+        ],
+        "type": "object"
+      },
+      "score": {
+        "shape": [
+          30,
+          2
+        ],
+        "type": "float64"
+      },
+      "var_labels_short": {
+        "shape": [
+          1,
+          7
+        ],
+        "type": "object"
+      }
+    }
+  },
+  "plot_fig3jk_ed11b": {
+    "BootstrapSettings": {
+      "paired_positive_negative": {
+        "shape": [
+          1,
+          2
+        ],
+        "type": "object"
+      },
+      "replacement": {
+        "shape": [
+          1,
+          2
+        ],
+        "type": "object"
+      },
+      "replicates": {
+        "shape": [
+          1,
+          2
+        ],
+        "type": "object"
+      },
+      "sample_size_per_group": {
+        "shape": [
+          1,
+          2
+        ],
+        "type": "object"
+      },
+      "seed": {
+        "shape": [
+          1,
+          2
+        ],
+        "type": "object"
+      },
+      "tail": {
+        "shape": [
+          1,
+          2
+        ],
+        "type": "object"
+      }
+    },
+    "Fig4_ED9_Data": {
+      "ci_stable_neg": {
+        "shape": [
+          1,
+          2
+        ],
+        "type": "object"
+      },
+      "ci_stable_pos": {
+        "shape": [
+          1,
+          2
+        ],
+        "type": "object"
+      },
+      "cohendpool_control_negM": {
+        "shape": [
+          1,
+          2
+        ],
+        "type": "object"
+      },
+      "cohendpool_control_posM": {
+        "shape": [
+          1,
+          2
+        ],
+        "type": "object"
+      },
+      "diff_dist": {
+        "shape": [
+          1,
+          2
+        ],
+        "type": "object"
+      },
+      "diff_treat_cross": {
+        "shape": [
+          1,
+          2
+        ],
+        "type": "object"
+      },
+      "diff_treat_same": {
+        "shape": [
+          1,
+          2
+        ],
+        "type": "object"
+      },
+      "dp_data_neg": {
+        "shape": [
+          1,
+          2
+        ],
+        "type": "object"
+      },
+      "dp_data_pos": {
+        "shape": [
+          1,
+          2
+        ],
+        "type": "object"
+      },
+      "idx_neg_sorted": {
+        "shape": [
+          1,
+          2
+        ],
+        "type": "object"
+      },
+      "idx_pos_sorted": {
+        "shape": [
+          1,
+          2
+        ],
+        "type": "object"
+      },
+      "mean_stable_neg": {
+        "shape": [
+          1,
+          2
+        ],
+        "type": "object"
+      },
+      "mean_stable_pos": {
+        "shape": [
+          1,
+          2
+        ],
+        "type": "object"
+      },
+      "obs_d_neg": {
+        "shape": [
+          1,
+          2
+        ],
+        "type": "object"
+      },
+      "obs_d_pos": {
+        "shape": [
+          1,
+          2
+        ],
+        "type": "object"
+      },
+      "p_val_cross": {
+        "shape": [
+          1,
+          2
+        ],
+        "type": "object"
+      },
+      "p_val_same": {
+        "shape": [
+          1,
+          2
+        ],
+        "type": "object"
+      },
+      "treatcohendMN": {
+        "shape": [
+          1,
+          2
+        ],
+        "type": "object"
+      },
+      "treatcohendMP": {
+        "shape": [
+          1,
+          2
+        ],
+        "type": "object"
+      },
+      "treatcohend_MHH_MLL_N": {
+        "shape": [
+          1,
+          2
+        ],
+        "type": "object"
+      },
+      "treatcohend_MHH_MLL_P": {
+        "shape": [
+          1,
+          2
+        ],
+        "type": "object"
+      },
+      "y_neg_list": {
+        "shape": [
+          1,
+          2
+        ],
+        "type": "object"
+      },
+      "y_pos_list": {
+        "shape": [
+          1,
+          2
+        ],
+        "type": "object"
+      }
+    },
+    "colorpair": {
+      "shape": [
+        2,
+        3
+      ],
+      "type": "object"
+    }
+  },
+  "reproduce_edfig15a": {
+    "coeff_joint": {
+      "shape": [
+        6,
+        6
+      ],
+      "type": "float64"
+    },
+    "continent_grp": {
+      "shape": [
+        46
+      ],
+      "type": "uint8"
+    },
+    "explained_joint": {
+      "shape": [
+        6
+      ],
+      "type": "float64"
+    },
+    "plist": {
+      "shape": [
+        30
+      ],
+      "type": "object"
+    },
+    "prov_display": {
+      "shape": [
+        30
+      ],
+      "type": "object"
+    },
+    "scores_china": {
+      "shape": [
+        30,
+        2
+      ],
+      "type": "float64"
+    },
+    "scores_world": {
+      "shape": [
+        46,
+        2
+      ],
+      "type": "float64"
+    },
+    "world_nations_clean": {
+      "shape": [
+        46
+      ],
+      "type": "object"
+    }
+  },
+  "reproduce_edfig15b": {
+    "Joint_PC1_China": {
+      "shape": [
+        30
+      ],
+      "type": "float64"
+    },
+    "Joint_PC1_World": {
+      "shape": [
+        26
+      ],
+      "type": "float64"
+    },
+    "Joint_PC2_China": {
+      "shape": [
+        30
+      ],
+      "type": "float64"
+    },
+    "Joint_PC2_World": {
+      "shape": [
+        26
+      ],
+      "type": "float64"
+    },
+    "Joint_PC3_China": {
+      "shape": [
+        30
+      ],
+      "type": "float64"
+    },
+    "Joint_PC3_World": {
+      "shape": [
+        26
+      ],
+      "type": "float64"
+    },
+    "coeff_joint": {
+      "shape": [
+        6,
+        6
+      ],
+      "type": "float64"
+    },
+    "coeff_local": {
+      "shape": [
+        6,
+        6
+      ],
+      "type": "float64"
+    },
+    "coeff_world": {
+      "shape": [
+        6,
+        6
+      ],
+      "type": "float64"
+    },
+    "corr_matrix": {
+      "shape": [
+        6,
+        6
+      ],
+      "type": "float64"
+    },
+    "corr_matrix_world": {
+      "shape": [
+        3,
+        3
+      ],
+      "type": "float64"
+    },
+    "explained_joint": {
+      "shape": [
+        6
+      ],
+      "type": "float64"
+    },
+    "explained_local": {
+      "shape": [
+        6
+      ],
+      "type": "float64"
+    },
+    "explained_world": {
+      "shape": [
+        6
+      ],
+      "type": "float64"
+    },
+    "matched_nations": {
+      "shape": [
+        26
+      ],
+      "type": "object"
+    },
+    "plist": {
+      "shape": [
+        30
+      ],
+      "type": "object"
+    },
+    "score_joint_nations": {
+      "shape": [
+        26,
+        6
+      ],
+      "type": "float64"
+    },
+    "score_joint_provinces": {
+      "shape": [
+        30,
+        6
+      ],
+      "type": "float64"
+    },
+    "score_local": {
+      "shape": [
+        30,
+        6
+      ],
+      "type": "float64"
+    },
+    "score_world": {
+      "shape": [
+        26,
+        6
+      ],
+      "type": "float64"
+    },
+    "tcc_matrix": {
+      "shape": [
+        3,
+        3
+      ],
+      "type": "float64"
+    },
+    "tcc_matrix_world": {
+      "shape": [
+        3,
+        3
+      ],
+      "type": "float64"
+    }
+  },
+  "plot_fig2e_replacement": {
+    "pc1_null": {
+      "shape": [
+        8,
+        9
+      ],
+      "type": "double"
+    },
+    "pc1_observed": {
+      "shape": [
+        1,
+        9
+      ],
+      "type": "double"
+    },
+    "pc1_test_pct": {
+      "shape": [
+        1,
+        9
+      ],
+      "type": "int32"
+    },
+    "pc2_null": {
+      "shape": [
+        8,
+        9
+      ],
+      "type": "double"
+    },
+    "pc2_observed": {
+      "shape": [
+        1,
+        9
+      ],
+      "type": "double"
+    },
+    "pc2_test_pct": {
+      "shape": [
+        1,
+        9
+      ],
+      "type": "int32"
+    },
+    "pc1_x": {
+      "shape": [
+        1,
+        92
+      ],
+      "type": "int32"
+    },
+    "pc1_top_lower": {
+      "shape": [
+        1,
+        92
+      ],
+      "type": "double"
+    },
+    "pc1_top_median": {
+      "shape": [
+        1,
+        92
+      ],
+      "type": "double"
+    },
+    "pc1_top_upper": {
+      "shape": [
+        1,
+        92
+      ],
+      "type": "double"
+    },
+    "pc1_random_lower": {
+      "shape": [
+        1,
+        92
+      ],
+      "type": "double"
+    },
+    "pc1_random_median": {
+      "shape": [
+        1,
+        92
+      ],
+      "type": "double"
+    },
+    "pc1_random_upper": {
+      "shape": [
+        1,
+        92
+      ],
+      "type": "double"
+    },
+    "pc1_significant_pct": {
+      "shape": [
+        0,
+        0
+      ],
+      "type": "double"
+    },
+    "pc1_nonsignificant_pct": {
+      "shape": [
+        1,
+        9
+      ],
+      "type": "double"
+    },
+    "pc2_x": {
+      "shape": [
+        1,
+        92
+      ],
+      "type": "int32"
+    },
+    "pc2_top_lower": {
+      "shape": [
+        1,
+        92
+      ],
+      "type": "double"
+    },
+    "pc2_top_median": {
+      "shape": [
+        1,
+        92
+      ],
+      "type": "double"
+    },
+    "pc2_top_upper": {
+      "shape": [
+        1,
+        92
+      ],
+      "type": "double"
+    },
+    "pc2_random_lower": {
+      "shape": [
+        1,
+        92
+      ],
+      "type": "double"
+    },
+    "pc2_random_median": {
+      "shape": [
+        1,
+        92
+      ],
+      "type": "double"
+    },
+    "pc2_random_upper": {
+      "shape": [
+        1,
+        92
+      ],
+      "type": "double"
+    },
+    "pc2_significant_pct": {
+      "shape": [
+        1,
+        6
+      ],
+      "type": "double"
+    },
+    "pc2_nonsignificant_pct": {
+      "shape": [
+        1,
+        3
+      ],
+      "type": "double"
+    }
+  }
+}

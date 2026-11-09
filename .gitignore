@@ -1,0 +1,11 @@
+outputs/
+/inputs/
+/local/
+__pycache__/
+*.py[cod]
+*.asv
+*.log
+.DS_Store
+Thumbs.db
+.venv/
+.vscode/
