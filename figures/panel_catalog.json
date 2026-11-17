@@ -1,0 +1,1793 @@
+{
+  "ExtendedDataFigure5": [
+    {
+      "name": "EDFig5_PC1_comparison",
+      "kind": "combat_comparison",
+      "fields": [
+        "lh",
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "EDFig5_PC1_province_violin",
+      "kind": "violin",
+      "fields": [
+        "beta",
+        "labels",
+        "null",
+        "p"
+      ]
+    },
+    {
+      "name": "EDFig5_PC1_spin_violin",
+      "kind": "violin",
+      "fields": [
+        "beta",
+        "labels",
+        "null",
+        "p"
+      ]
+    },
+    {
+      "name": "EDFig5_PC1_gradient",
+      "kind": "scatter",
+      "fields": [
+        "lh",
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "EDFig5_PC2_comparison",
+      "kind": "combat_comparison",
+      "fields": [
+        "lh",
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "EDFig5_PC2_province_violin",
+      "kind": "violin",
+      "fields": [
+        "beta",
+        "labels",
+        "null",
+        "p"
+      ]
+    },
+    {
+      "name": "EDFig5_PC2_spin_violin",
+      "kind": "violin",
+      "fields": [
+        "beta",
+        "labels",
+        "null",
+        "p"
+      ]
+    },
+    {
+      "name": "EDFig5_PC2_gradient",
+      "kind": "scatter",
+      "fields": [
+        "lh",
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "EDFig5_PC1",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "values"
+      ]
+    },
+    {
+      "name": "EDFig5_PC2",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "values"
+      ]
+    }
+  ],
+  "ExtendedDataFigure6": [
+    {
+      "name": "EDFig6_PC1_scatter",
+      "kind": "purple_fit",
+      "fields": [
+        "lh",
+        "p",
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "EDFig6_PC2_scatter",
+      "kind": "purple_fit",
+      "fields": [
+        "lh",
+        "p",
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "EDFig6_PC1",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "values"
+      ]
+    },
+    {
+      "name": "EDFig6_PC2",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "values"
+      ]
+    }
+  ],
+  "ExtendedDataFigure7": [
+    {
+      "name": "EDFig7_area_PC1_province",
+      "kind": "violin",
+      "fields": [
+        "beta",
+        "labels",
+        "null",
+        "p"
+      ]
+    },
+    {
+      "name": "EDFig7_area_PC1_spin",
+      "kind": "violin",
+      "fields": [
+        "beta",
+        "labels",
+        "null",
+        "p"
+      ]
+    },
+    {
+      "name": "EDFig7_volume_PC1_province",
+      "kind": "violin",
+      "fields": [
+        "beta",
+        "labels",
+        "null",
+        "p"
+      ]
+    },
+    {
+      "name": "EDFig7_volume_PC1_spin",
+      "kind": "violin",
+      "fields": [
+        "beta",
+        "labels",
+        "null",
+        "p"
+      ]
+    },
+    {
+      "name": "EDFig7_area_PC2_province",
+      "kind": "violin",
+      "fields": [
+        "beta",
+        "labels",
+        "null",
+        "p"
+      ]
+    },
+    {
+      "name": "EDFig7_area_PC2_spin",
+      "kind": "violin",
+      "fields": [
+        "beta",
+        "labels",
+        "null",
+        "p"
+      ]
+    },
+    {
+      "name": "EDFig7_volume_PC2_province",
+      "kind": "violin",
+      "fields": [
+        "beta",
+        "labels",
+        "null",
+        "p"
+      ]
+    },
+    {
+      "name": "EDFig7_volume_PC2_spin",
+      "kind": "violin",
+      "fields": [
+        "beta",
+        "labels",
+        "null",
+        "p"
+      ]
+    },
+    {
+      "name": "EDFig7_PC3_violin",
+      "kind": "violin",
+      "fields": [
+        "beta",
+        "labels",
+        "null",
+        "p"
+      ]
+    },
+    {
+      "name": "EDFig7_eigenmodes",
+      "kind": "vertical_violin",
+      "fields": [
+        "beta",
+        "display_order_0based",
+        "effect",
+        "modes",
+        "null_beta",
+        "p_min_tail",
+        "p_two_sided",
+        "reference_maps"
+      ]
+    },
+    {
+      "name": "EDFig7_area_PC1",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "values"
+      ]
+    },
+    {
+      "name": "EDFig7_volume_PC1",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "values"
+      ]
+    },
+    {
+      "name": "EDFig7_area_PC2",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "values"
+      ]
+    },
+    {
+      "name": "EDFig7_volume_PC2",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "values"
+      ]
+    },
+    {
+      "name": "EDFig7_PC3",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "values"
+      ]
+    }
+  ],
+  "ExtendedDataFigure8": [
+    {
+      "name": "EDFig8_thickness_PercentPaddy_violin",
+      "kind": "violin",
+      "fields": [
+        "beta",
+        "labels",
+        "null",
+        "p"
+      ]
+    },
+    {
+      "name": "EDFig8_thickness_RiceSuitability_violin",
+      "kind": "violin",
+      "fields": [
+        "beta",
+        "labels",
+        "null",
+        "p"
+      ]
+    },
+    {
+      "name": "EDFig8_area_PercentPaddy_violin",
+      "kind": "violin",
+      "fields": [
+        "beta",
+        "labels",
+        "null",
+        "p"
+      ]
+    },
+    {
+      "name": "EDFig8_area_RiceSuitability_violin",
+      "kind": "violin",
+      "fields": [
+        "beta",
+        "labels",
+        "null",
+        "p"
+      ]
+    },
+    {
+      "name": "EDFig8_culture_correlations",
+      "kind": "heatmap",
+      "fields": [
+        "clim",
+        "labels",
+        "matrix",
+        "p",
+        "xlabels"
+      ]
+    },
+    {
+      "name": "EDFig8_thickness_PercentPaddy",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "significant",
+        "values"
+      ]
+    },
+    {
+      "name": "EDFig8_thickness_RiceSuitability",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "significant",
+        "values"
+      ]
+    },
+    {
+      "name": "EDFig8_area_PercentPaddy",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "significant",
+        "values"
+      ]
+    },
+    {
+      "name": "EDFig8_area_RiceSuitability",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "significant",
+        "values"
+      ]
+    }
+  ],
+  "Figure4": [
+    {
+      "name": "Fig4_behavior_violin",
+      "kind": "violin",
+      "fields": [
+        "beta",
+        "labels",
+        "null",
+        "p"
+      ]
+    },
+    {
+      "name": "Fig4_behavior_scatter",
+      "kind": "scatter",
+      "fields": [
+        "lh",
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "Fig4_behavior_permutation",
+      "kind": "histogram",
+      "fields": [
+        "null",
+        "observed",
+        "p",
+        "xlabel"
+      ]
+    },
+    {
+      "name": "Fig4_PC1_violin",
+      "kind": "violin",
+      "fields": [
+        "beta",
+        "labels",
+        "null",
+        "p"
+      ]
+    },
+    {
+      "name": "Fig4_PC1_scatter",
+      "kind": "scatter",
+      "fields": [
+        "lh",
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "Fig4_PC1_permutation",
+      "kind": "histogram",
+      "fields": [
+        "null",
+        "observed",
+        "p",
+        "xlabel"
+      ]
+    },
+    {
+      "name": "Fig4_PC2_violin",
+      "kind": "violin",
+      "fields": [
+        "beta",
+        "labels",
+        "null",
+        "p"
+      ]
+    },
+    {
+      "name": "Fig4_PC2_scatter",
+      "kind": "scatter",
+      "fields": [
+        "lh",
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "Fig4_PC2_permutation",
+      "kind": "histogram",
+      "fields": [
+        "null",
+        "observed",
+        "p",
+        "xlabel"
+      ]
+    },
+    {
+      "name": "Fig4_behavior_RDM0",
+      "kind": "heatmap",
+      "fields": [
+        "clim",
+        "labels",
+        "matrix"
+      ]
+    },
+    {
+      "name": "Fig4_behavior_RDM1",
+      "kind": "heatmap",
+      "fields": [
+        "clim",
+        "labels",
+        "matrix"
+      ]
+    },
+    {
+      "name": "Fig4_behavior_RDM2",
+      "kind": "heatmap",
+      "fields": [
+        "clim",
+        "labels",
+        "matrix"
+      ]
+    },
+    {
+      "name": "Fig4_PC1_RDM0",
+      "kind": "heatmap",
+      "fields": [
+        "clim",
+        "labels",
+        "matrix"
+      ]
+    },
+    {
+      "name": "Fig4_PC1_RDM1",
+      "kind": "heatmap",
+      "fields": [
+        "clim",
+        "labels",
+        "matrix"
+      ]
+    },
+    {
+      "name": "Fig4_PC1_RDM2",
+      "kind": "heatmap",
+      "fields": [
+        "clim",
+        "labels",
+        "matrix"
+      ]
+    },
+    {
+      "name": "Fig4_PC2_RDM0",
+      "kind": "heatmap",
+      "fields": [
+        "clim",
+        "labels",
+        "matrix"
+      ]
+    },
+    {
+      "name": "Fig4_PC2_RDM1",
+      "kind": "heatmap",
+      "fields": [
+        "clim",
+        "labels",
+        "matrix"
+      ]
+    },
+    {
+      "name": "Fig4_PC2_RDM2",
+      "kind": "heatmap",
+      "fields": [
+        "clim",
+        "labels",
+        "matrix"
+      ]
+    }
+  ],
+  "ExtendedDataFigure13": [
+    {
+      "name": "EDFig13_IVR_scatter",
+      "kind": "scatter",
+      "fields": [
+        "lh",
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "EDFig13_IVR_permutation",
+      "kind": "histogram",
+      "fields": [
+        "null",
+        "observed",
+        "p",
+        "xlabel"
+      ]
+    },
+    {
+      "name": "EDFig13_PDI_scatter",
+      "kind": "scatter",
+      "fields": [
+        "lh",
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "EDFig13_PDI_permutation",
+      "kind": "histogram",
+      "fields": [
+        "null",
+        "observed",
+        "p",
+        "xlabel"
+      ]
+    },
+    {
+      "name": "EDFig13_UAI_scatter",
+      "kind": "scatter",
+      "fields": [
+        "lh",
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "EDFig13_UAI_permutation",
+      "kind": "histogram",
+      "fields": [
+        "null",
+        "observed",
+        "p",
+        "xlabel"
+      ]
+    },
+    {
+      "name": "EDFig13_IDV_scatter",
+      "kind": "scatter",
+      "fields": [
+        "lh",
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "EDFig13_IDV_permutation",
+      "kind": "histogram",
+      "fields": [
+        "null",
+        "observed",
+        "p",
+        "xlabel"
+      ]
+    },
+    {
+      "name": "EDFig13_MAS_scatter",
+      "kind": "scatter",
+      "fields": [
+        "lh",
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "EDFig13_MAS_permutation",
+      "kind": "histogram",
+      "fields": [
+        "null",
+        "observed",
+        "p",
+        "xlabel"
+      ]
+    },
+    {
+      "name": "EDFig13_LTO_scatter",
+      "kind": "scatter",
+      "fields": [
+        "lh",
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "EDFig13_LTO_permutation",
+      "kind": "histogram",
+      "fields": [
+        "null",
+        "observed",
+        "p",
+        "xlabel"
+      ]
+    },
+    {
+      "name": "EDFig13_china_heatmap",
+      "kind": "heatmap",
+      "fields": [
+        "clim",
+        "colors",
+        "labels",
+        "matrix",
+        "p"
+      ]
+    },
+    {
+      "name": "EDFig13_nations_heatmap",
+      "kind": "heatmap",
+      "fields": [
+        "clim",
+        "labels",
+        "matrix",
+        "p"
+      ]
+    },
+    {
+      "name": "EDFig13_china_IVR",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "values"
+      ]
+    },
+    {
+      "name": "EDFig13_nation_IVR",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "values"
+      ]
+    },
+    {
+      "name": "EDFig13_china_PDI",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "values"
+      ]
+    },
+    {
+      "name": "EDFig13_nation_PDI",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "values"
+      ]
+    },
+    {
+      "name": "EDFig13_china_UAI",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "values"
+      ]
+    },
+    {
+      "name": "EDFig13_nation_UAI",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "values"
+      ]
+    },
+    {
+      "name": "EDFig13_china_IDV",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "values"
+      ]
+    },
+    {
+      "name": "EDFig13_nation_IDV",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "values"
+      ]
+    },
+    {
+      "name": "EDFig13_china_MAS",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "values"
+      ]
+    },
+    {
+      "name": "EDFig13_nation_MAS",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "values"
+      ]
+    },
+    {
+      "name": "EDFig13_china_LTO",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "values"
+      ]
+    },
+    {
+      "name": "EDFig13_nation_LTO",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "values"
+      ]
+    }
+  ],
+  "ExtendedDataFigure2": [
+    {
+      "name": "EDFig2d_1_trajectory",
+      "kind": "trajectory",
+      "fields": [
+        "dataset_title",
+        "null_0",
+        "null_1",
+        "null_10",
+        "null_11",
+        "null_12",
+        "null_13",
+        "null_14",
+        "null_15",
+        "null_16",
+        "null_17",
+        "null_18",
+        "null_19",
+        "null_2",
+        "null_20",
+        "null_21",
+        "null_22",
+        "null_23",
+        "null_24",
+        "null_25",
+        "null_26",
+        "null_27",
+        "null_28",
+        "null_3",
+        "null_4",
+        "null_5",
+        "null_6",
+        "null_7",
+        "null_8",
+        "null_9",
+        "p",
+        "r",
+        "selected"
+      ]
+    },
+    {
+      "name": "EDFig2d_2_trajectory",
+      "kind": "trajectory",
+      "fields": [
+        "dataset_title",
+        "null_0",
+        "null_1",
+        "null_10",
+        "null_11",
+        "null_12",
+        "null_13",
+        "null_14",
+        "null_15",
+        "null_16",
+        "null_17",
+        "null_18",
+        "null_19",
+        "null_2",
+        "null_20",
+        "null_21",
+        "null_22",
+        "null_23",
+        "null_24",
+        "null_25",
+        "null_26",
+        "null_27",
+        "null_28",
+        "null_3",
+        "null_4",
+        "null_5",
+        "null_6",
+        "null_7",
+        "null_8",
+        "null_9",
+        "p",
+        "r",
+        "selected"
+      ]
+    },
+    {
+      "name": "EDFig2d_3_trajectory",
+      "kind": "trajectory",
+      "fields": [
+        "dataset_title",
+        "null_0",
+        "null_1",
+        "null_10",
+        "null_11",
+        "null_12",
+        "null_13",
+        "null_14",
+        "null_15",
+        "null_16",
+        "null_17",
+        "null_18",
+        "null_19",
+        "null_2",
+        "null_20",
+        "null_21",
+        "null_22",
+        "null_23",
+        "null_24",
+        "null_25",
+        "null_26",
+        "null_3",
+        "null_4",
+        "null_5",
+        "null_6",
+        "null_7",
+        "null_8",
+        "null_9",
+        "p",
+        "r",
+        "selected"
+      ]
+    },
+    {
+      "name": "EDFig2d_4_trajectory",
+      "kind": "trajectory",
+      "fields": [
+        "dataset_title",
+        "null_0",
+        "null_1",
+        "null_10",
+        "null_11",
+        "null_12",
+        "null_13",
+        "null_14",
+        "null_15",
+        "null_16",
+        "null_17",
+        "null_18",
+        "null_19",
+        "null_2",
+        "null_20",
+        "null_21",
+        "null_22",
+        "null_23",
+        "null_24",
+        "null_25",
+        "null_26",
+        "null_3",
+        "null_4",
+        "null_5",
+        "null_6",
+        "null_7",
+        "null_8",
+        "null_9",
+        "p",
+        "r",
+        "selected"
+      ]
+    },
+    {
+      "name": "EDFig2d_5_trajectory",
+      "kind": "trajectory",
+      "fields": [
+        "dataset_title",
+        "null_0",
+        "null_1",
+        "null_10",
+        "null_11",
+        "null_12",
+        "null_13",
+        "null_14",
+        "null_15",
+        "null_16",
+        "null_17",
+        "null_18",
+        "null_2",
+        "null_3",
+        "null_4",
+        "null_5",
+        "null_6",
+        "null_7",
+        "null_8",
+        "null_9",
+        "p",
+        "r",
+        "selected"
+      ]
+    },
+    {
+      "name": "EDFig2d_6_trajectory",
+      "kind": "trajectory",
+      "fields": [
+        "dataset_title",
+        "null_0",
+        "null_1",
+        "null_10",
+        "null_11",
+        "null_12",
+        "null_13",
+        "null_14",
+        "null_15",
+        "null_16",
+        "null_17",
+        "null_18",
+        "null_2",
+        "null_3",
+        "null_4",
+        "null_5",
+        "null_6",
+        "null_7",
+        "null_8",
+        "null_9",
+        "p",
+        "r",
+        "selected"
+      ]
+    },
+    {
+      "name": "EDFig2e_Nations_PC1_80",
+      "kind": "identity_scatter",
+      "fields": [
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "EDFig2e_Nations_PC1_85",
+      "kind": "identity_scatter",
+      "fields": [
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "EDFig2e_Nations_PC1_90",
+      "kind": "identity_scatter",
+      "fields": [
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "EDFig2e_Nations_PC1_95",
+      "kind": "identity_scatter",
+      "fields": [
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "EDFig2e_Nations_PC2_80",
+      "kind": "identity_scatter",
+      "fields": [
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "EDFig2e_Nations_PC2_85",
+      "kind": "identity_scatter",
+      "fields": [
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "EDFig2e_Nations_PC2_90",
+      "kind": "identity_scatter",
+      "fields": [
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "EDFig2e_Nations_PC2_95",
+      "kind": "identity_scatter",
+      "fields": [
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "EDFig2e_USA_TL_80",
+      "kind": "identity_scatter",
+      "fields": [
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "EDFig2e_USA_TL_85",
+      "kind": "identity_scatter",
+      "fields": [
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "EDFig2e_USA_TL_90",
+      "kind": "identity_scatter",
+      "fields": [
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "EDFig2e_USA_TL_95",
+      "kind": "identity_scatter",
+      "fields": [
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    }
+  ],
+  "ExtendedDataFigure4": [
+    {
+      "name": "EDFig4_PC1_scatter",
+      "kind": "scatter",
+      "fields": [
+        "lh",
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "EDFig4_PC2_scatter",
+      "kind": "scatter",
+      "fields": [
+        "lh",
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    }
+  ],
+  "ExtendedDataFigure10": [
+    {
+      "name": "EDFig10_China_PC1_LOO",
+      "kind": "loo",
+      "fields": [
+        "labels",
+        "y"
+      ]
+    },
+    {
+      "name": "EDFig10_China_PC2_LOO",
+      "kind": "loo",
+      "fields": [
+        "labels",
+        "y"
+      ]
+    },
+    {
+      "name": "EDFig10_PC1_LOO",
+      "kind": "loo",
+      "fields": [
+        "labels",
+        "y"
+      ]
+    },
+    {
+      "name": "EDFig10_PC2_LOO",
+      "kind": "loo",
+      "fields": [
+        "labels",
+        "y"
+      ]
+    },
+    {
+      "name": "EDFig10_USA_TL_LOO",
+      "kind": "loo",
+      "fields": [
+        "labels",
+        "y"
+      ]
+    },
+    {
+      "name": "EDFig10_progressive",
+      "kind": "curves",
+      "fields": [
+        "labels",
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    }
+  ],
+  "ExtendedDataFigure9": [
+    {
+      "name": "EDFig9_China_PC1_resampling",
+      "kind": "ribbons",
+      "fields": [
+        "labels",
+        "series",
+        "x"
+      ]
+    },
+    {
+      "name": "EDFig9_China_PC2_resampling",
+      "kind": "ribbons",
+      "fields": [
+        "labels",
+        "series",
+        "x"
+      ]
+    },
+    {
+      "name": "EDFig9_PC1_mode1",
+      "kind": "ribbons",
+      "fields": [
+        "labels",
+        "series",
+        "x"
+      ]
+    },
+    {
+      "name": "EDFig9_PC1_mode2",
+      "kind": "ribbons",
+      "fields": [
+        "labels",
+        "series",
+        "x"
+      ]
+    },
+    {
+      "name": "EDFig9_PC2_mode1",
+      "kind": "ribbons",
+      "fields": [
+        "labels",
+        "series",
+        "x"
+      ]
+    },
+    {
+      "name": "EDFig9_PC2_mode2",
+      "kind": "ribbons",
+      "fields": [
+        "labels",
+        "series",
+        "x"
+      ]
+    },
+    {
+      "name": "EDFig9_USA_TL_mode1",
+      "kind": "ribbons",
+      "fields": [
+        "labels",
+        "series",
+        "x"
+      ]
+    },
+    {
+      "name": "EDFig9_USA_TL_mode2",
+      "kind": "ribbons",
+      "fields": [
+        "labels",
+        "series",
+        "x"
+      ]
+    },
+    {
+      "name": "EDFig9_overlap_1",
+      "kind": "curves",
+      "fields": [
+        "colors",
+        "labels",
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "EDFig9_overlap_2",
+      "kind": "curves",
+      "fields": [
+        "labels",
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    }
+  ],
+  "ExtendedDataFigure3": [
+    {
+      "name": "EDFig3_correlations",
+      "kind": "heatmap",
+      "fields": [
+        "clim",
+        "labels",
+        "matrix"
+      ]
+    },
+    {
+      "name": "EDFig3_gradient1",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "values"
+      ]
+    },
+    {
+      "name": "EDFig3_gradient2",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "values"
+      ]
+    },
+    {
+      "name": "EDFig3_gradient3",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "values"
+      ]
+    },
+    {
+      "name": "EDFig3_gradient4",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "values"
+      ]
+    },
+    {
+      "name": "EDFig3_gradient5",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "values"
+      ]
+    },
+    {
+      "name": "EDFig3_gradient6",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "values"
+      ]
+    },
+    {
+      "name": "EDFig3_gradient7",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "values"
+      ]
+    },
+    {
+      "name": "EDFig3_gradient8",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "values"
+      ]
+    },
+    {
+      "name": "EDFig3_gradient9",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "values"
+      ]
+    }
+  ],
+  "Figure1": [
+    {
+      "name": "Fig1a_province_counts",
+      "kind": "bars",
+      "fields": [
+        "color",
+        "labels",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "Fig1b_province_counts",
+      "kind": "bars",
+      "fields": [
+        "color",
+        "labels",
+        "y",
+        "ylabel"
+      ]
+    }
+  ],
+  "Figure2": [
+    {
+      "name": "Fig2b_pc1_pos_30provinces",
+      "kind": "error_scatter",
+      "fields": [
+        "color",
+        "se",
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "Fig2b_pc1_neg_30provinces",
+      "kind": "error_scatter",
+      "fields": [
+        "color",
+        "se",
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "Fig2b_pc2_pos_30provinces",
+      "kind": "error_scatter",
+      "fields": [
+        "color",
+        "se",
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "Fig2b_pc2_neg_30provinces",
+      "kind": "error_scatter",
+      "fields": [
+        "color",
+        "se",
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    }
+  ],
+  "Figure3": [
+    {
+      "name": "Fig3c_PC1",
+      "kind": "bars",
+      "fields": [
+        "color",
+        "labels",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "Fig3d_PC1",
+      "kind": "identity_scatter",
+      "fields": [
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "Fig3c_PC2",
+      "kind": "bars",
+      "fields": [
+        "color",
+        "labels",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "Fig3d_PC2",
+      "kind": "identity_scatter",
+      "fields": [
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    }
+  ],
+  "ExtendedDataFigure1": [
+    {
+      "name": "EDFig1b",
+      "kind": "error_scatter",
+      "fields": [
+        "color",
+        "labels",
+        "se",
+        "x",
+        "xlabel",
+        "xse",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "EDFig1c",
+      "kind": "error_scatter",
+      "fields": [
+        "color",
+        "labels",
+        "se",
+        "x",
+        "xlabel",
+        "xse",
+        "y",
+        "ylabel"
+      ]
+    }
+  ],
+  "ExtendedDataFigure12": [
+    {
+      "name": "EDFig12_behavior_ROI1",
+      "kind": "task_scatter",
+      "fields": [
+        "color",
+        "labels",
+        "x",
+        "y"
+      ]
+    },
+    {
+      "name": "EDFig12_behavior_ROI2",
+      "kind": "task_scatter",
+      "fields": [
+        "color",
+        "labels",
+        "x",
+        "y"
+      ]
+    },
+    {
+      "name": "EDFig12_behavior_scatter",
+      "kind": "purple_fit",
+      "fields": [
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "EDFig12_PC1_ROI1",
+      "kind": "task_scatter",
+      "fields": [
+        "color",
+        "labels",
+        "x",
+        "y"
+      ]
+    },
+    {
+      "name": "EDFig12_PC1_ROI2",
+      "kind": "task_scatter",
+      "fields": [
+        "color",
+        "labels",
+        "x",
+        "y"
+      ]
+    },
+    {
+      "name": "EDFig12_PC1_scatter",
+      "kind": "purple_fit",
+      "fields": [
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    },
+    {
+      "name": "EDFig12_PC2_ROI1",
+      "kind": "task_scatter",
+      "fields": [
+        "color",
+        "labels",
+        "x",
+        "y"
+      ]
+    },
+    {
+      "name": "EDFig12_PC2_ROI2",
+      "kind": "task_scatter",
+      "fields": [
+        "color",
+        "labels",
+        "x",
+        "y"
+      ]
+    },
+    {
+      "name": "EDFig12_PC2_scatter",
+      "kind": "purple_fit",
+      "fields": [
+        "x",
+        "xlabel",
+        "y",
+        "ylabel"
+      ]
+    }
+  ],
+  "ExtendedDataFigure11": [
+    {
+      "name": "EDFig11a_PC1",
+      "kind": "paired_histogram",
+      "fields": [
+        "cross",
+        "group_n",
+        "groups",
+        "means",
+        "null_H",
+        "null_L",
+        "null_difference",
+        "p_cross",
+        "p_same",
+        "same",
+        "sample_size"
+      ]
+    },
+    {
+      "name": "EDFig11b_PC1_pos_LL_LH",
+      "kind": "roi_intervals",
+      "fields": [
+        "color",
+        "hi",
+        "light",
+        "lo",
+        "mover",
+        "stable"
+      ]
+    },
+    {
+      "name": "EDFig11b_PC1_pos_HH_HL",
+      "kind": "roi_intervals",
+      "fields": [
+        "color",
+        "hi",
+        "light",
+        "lo",
+        "mover",
+        "stable"
+      ]
+    },
+    {
+      "name": "EDFig11b_PC1_neg_LL_LH",
+      "kind": "roi_intervals",
+      "fields": [
+        "color",
+        "hi",
+        "light",
+        "lo",
+        "mover",
+        "stable"
+      ]
+    },
+    {
+      "name": "EDFig11b_PC1_neg_HH_HL",
+      "kind": "roi_intervals",
+      "fields": [
+        "color",
+        "hi",
+        "light",
+        "lo",
+        "mover",
+        "stable"
+      ]
+    },
+    {
+      "name": "EDFig11a_PC2",
+      "kind": "paired_histogram",
+      "fields": [
+        "cross",
+        "group_n",
+        "groups",
+        "means",
+        "null_H",
+        "null_L",
+        "null_difference",
+        "p_cross",
+        "p_same",
+        "same",
+        "sample_size"
+      ]
+    },
+    {
+      "name": "EDFig11b_PC2_pos_LL_LH",
+      "kind": "roi_intervals",
+      "fields": [
+        "color",
+        "hi",
+        "light",
+        "lo",
+        "mover",
+        "stable"
+      ]
+    },
+    {
+      "name": "EDFig11b_PC2_pos_HH_HL",
+      "kind": "roi_intervals",
+      "fields": [
+        "color",
+        "hi",
+        "light",
+        "lo",
+        "mover",
+        "stable"
+      ]
+    },
+    {
+      "name": "EDFig11b_PC2_neg_LL_LH",
+      "kind": "roi_intervals",
+      "fields": [
+        "color",
+        "hi",
+        "light",
+        "lo",
+        "mover",
+        "stable"
+      ]
+    },
+    {
+      "name": "EDFig11b_PC2_neg_HH_HL",
+      "kind": "roi_intervals",
+      "fields": [
+        "color",
+        "hi",
+        "light",
+        "lo",
+        "mover",
+        "stable"
+      ]
+    }
+  ],
+  "ExtendedDataFigure15": [
+    {
+      "name": "EDFig15_surface1",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "values"
+      ]
+    },
+    {
+      "name": "EDFig15_surface2",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "values"
+      ]
+    },
+    {
+      "name": "EDFig15_surface3",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "values"
+      ]
+    },
+    {
+      "name": "EDFig15_surface4",
+      "kind": "surface",
+      "fields": [
+        "limit",
+        "values"
+      ]
+    }
+  ]
+}
