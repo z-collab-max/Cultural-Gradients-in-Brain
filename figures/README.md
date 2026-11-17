@@ -1,6 +1,6 @@
 # Figure rendering
 
-Install requirements.txt from the repository root. MATLAB statistical layouts require Statistics and Machine Learning Toolbox. Geography exports SVG/PNG; all MATLAB layouts save editable FIG files. The shared style is Arial 8 pt and 0.85 pt line width.
+Install requirements.txt from the repository root. MATLAB statistical layouts require Statistics and Machine Learning Toolbox. Geography exports SVG/PNG; all MATLAB layouts save editable FIG files. The shared style is Arial 8 pt and 0.75 pt line width.
 
 ```sh
 python figures/run_layout_demo.py --output outputs/layout_demo
